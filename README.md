@@ -1,12 +1,9 @@
-- Hi 👋 It's Deveb
-- A creative digital agency
--
-- We make:
+# Hi 👋 It's Deveb
+- 💡 A creative digital agency! 
+
+# We make 🛠️:
 - 🌐 Websites
 - 🎨 UI/UX Design
--  ™️ Branding
+- ™️ Branding
 
-<!---
-Deveb-co/Deveb-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Get in touch with us at [deveb.co](https://deveb.co/)!
